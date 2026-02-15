@@ -6,5 +6,4 @@
 </tr>
 </table>
 
-<h1 align="center">Hi, I'm Maxi 👋</h1>
-<h3 align="center">Frontend Engineer • UI obsessed • building Moodly</h3>
+
